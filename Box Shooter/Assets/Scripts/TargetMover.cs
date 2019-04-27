@@ -29,7 +29,7 @@ public class TargetMover : MonoBehaviour {
 				break;
 
             case motionDirections.Horizontal:
-                // move up and down over time
+                // move left and right over time
                 gameObject.transform.Translate(Vector3.right * Mathf.Cos(Time.timeSinceLevelLoad) * motionMagnitude);
                 break;
 		}
