@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3637314697410005831}
   - component: {fileID: 4167988336147643327}
   - component: {fileID: 5117783413503092342}
+  - component: {fileID: -34101708675723614}
   m_Layer: 0
   m_Name: Target-Bonus
   m_TagString: Untagged
@@ -139,3 +140,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   exitAfterSeconds: 5
   exitAnimationSeconds: 1
+--- !u!95 &-34101708675723614
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 30890728832347105}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 547f4ad349613c842a20aada371b9d2c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
