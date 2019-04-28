@@ -2034,22 +2034,82 @@ PrefabInstance:
     - target: {fileID: 6443310890284321427, guid: cab8528309e60c54596768df80031cc0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.67
+      value: 8.091508
       objectReference: {fileID: 0}
     - target: {fileID: 6443310890284321427, guid: cab8528309e60c54596768df80031cc0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.25
+      value: -2.275929
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310890284321427, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.035741
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310889788003316, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.908492
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310889788003316, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.035741
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310889788003316, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.275929
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310890604194026, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.964259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310890604194026, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.275929
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310890604194026, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.908492
       objectReference: {fileID: 0}
     - target: {fileID: 6443310889575671550, guid: cab8528309e60c54596768df80031cc0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.37
+      value: -2.275929
       objectReference: {fileID: 0}
     - target: {fileID: 6443310889575671550, guid: cab8528309e60c54596768df80031cc0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.77
+      value: 9.964259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310889575671550, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.091508
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310889575671520, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_Text
+      value: Restart This Level
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310889788003306, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_Text
+      value: Restart This Level
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310890284321421, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_Text
+      value: Restart This Level
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443310890604194036, guid: cab8528309e60c54596768df80031cc0,
+        type: 3}
+      propertyPath: m_Text
+      value: Restart This Level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cab8528309e60c54596768df80031cc0, type: 3}
@@ -2130,6 +2190,66 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1911279183519099917, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.8526287
+      objectReference: {fileID: 0}
+    - target: {fileID: 1911279183519099917, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2119007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1911279183519099917, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.335371
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057269782779304, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.1473713
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057269782779304, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2119007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057269782779304, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.664629
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057268589875256, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.147371
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057268589875256, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2119007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057268589875256, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.33537102
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057268549872076, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.8526287
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057268549872076, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2119007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1728057268549872076, guid: 0a2dd1a407e90084d858e191f2c7d209,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.664629
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a2dd1a407e90084d858e191f2c7d209, type: 3}
