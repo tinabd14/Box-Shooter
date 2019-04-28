@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 7255367517868652640}
   m_Layer: 0
   m_Name: Projectile
-  m_TagString: Untagged
+  m_TagString: Projectile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109,7 +109,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!96 &7753077833395845478
 TrailRenderer:
   serializedVersion: 2
@@ -217,5 +217,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df07de1b9960449dca08c7a078db1f62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeOut: 5
+  timeOut: 3
   detachChildren: 0
